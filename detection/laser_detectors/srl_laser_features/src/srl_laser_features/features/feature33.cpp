@@ -31,6 +31,8 @@
 */
 
 #include <srl_laser_features/features/feature33.h>
+#include <cmath>
+using namespace std;
 
 namespace srl_laser_features {
 
